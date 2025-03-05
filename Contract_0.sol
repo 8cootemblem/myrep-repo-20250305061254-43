@@ -7,8 +7,8 @@ contract SimpleStorage_0 {
     string public message;
 
     constructor() {
-        randomNumber = 24;
-        message = "Hello from commit 0 - 2025-03-05 06:12:58";
+        randomNumber = 17;
+        message = "Hello from commit 0 - 2025-03-05 06:13:02";
     }
 
     function getMessage() public view returns (string) {
